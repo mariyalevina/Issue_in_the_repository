@@ -1,1 +1,3 @@
-# SelenideSearchOnGithub
+Автотест на сайт https://github.com , в котором присутствуют проверки на поиск проекта Selenide,
+на присутствие страницы SoftAssertions в подразделе Wiki
+и проверка на наличие примера кода для JUnit5 на странице SoftAssertions
